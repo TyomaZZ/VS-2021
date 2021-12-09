@@ -176,13 +176,14 @@ namespace LR7_VS2021_TeamDevelop
             // 
             // button13
             // 
+            this.button13.BackColor = System.Drawing.Color.Yellow;
             this.button13.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button13.Location = new System.Drawing.Point(11, 219);
             this.button13.Name = "button13";
             this.button13.Size = new System.Drawing.Size(226, 61);
             this.button13.TabIndex = 12;
             this.button13.Text = "13. Мельничук";
-            this.button13.UseVisualStyleBackColor = true;
+            this.button13.UseVisualStyleBackColor = false;
             this.button13.Click += new System.EventHandler(this.button13_Click);
             // 
             // button14
